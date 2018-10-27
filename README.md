@@ -1,7 +1,6 @@
-<center>
-  <h1>3D Vision Resources<h1 /> 
-  <p>Here is a list of 3D vision resources<p />
-<center />
+#3D Vision Resources 
+
+Here is a list of 3D vision resources
 
 <center>
   <img width="50%" src="https://cdn.pixabay.com/photo/2016/10/28/00/42/machine-1776925_960_720.jpg" />
