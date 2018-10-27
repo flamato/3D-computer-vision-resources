@@ -1,5 +1,6 @@
-<center># 3D Vision Resources 
-  Here is a list of 3D vision resources
+<center>
+  <h1>3D Vision Resources<h1 /> 
+  <p>Here is a list of 3D vision resources<p / >
 <center />
 
 <center>
