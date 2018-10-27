@@ -1,4 +1,4 @@
-# 3D-vision-resources
+# 3D Vision Resources
 Here is a list of 3D vision resources
 
 ## Courses
