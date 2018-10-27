@@ -1,12 +1,12 @@
 # 3D Vision Resources 
 
-Here is a list of 3D vision resources
+Here is a list of **3D Computer Vision resources**
 <p align="center">
   <img align="center" width="50%" src="https://cdn.pixabay.com/photo/2016/10/28/00/42/machine-1776925_960_720.jpg" />
 <p />
   
 ## Get Involved
-Fell free to add content through pull requests or open issues to contribute !
+Fell free to add content through **pull requests** or open **issues** to contribute !
 
 ## Table Of Content
 - [Courses](#courses)
