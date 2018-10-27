@@ -10,7 +10,7 @@ Fell free to add content through pull requests or open issues to contribute !
 - [Collections](#collections)
 - [Projects](#projects)
 
-<a = "courses">
+<a name="courses" />
 
 ## Courses
 Link | Description
@@ -18,7 +18,7 @@ Link | Description
 [CS231A](http://web.stanford.edu/class/cs231a/syllabus.html) | Computer Vision, From 3D Reconstruction to Recognition
 [Introduction to Computer Vision](https://eu.udacity.com/course/introduction-to-computer-vision--ud810) | Course of great quality that covers large. 
 
-<a = "papers_with_code">
+<a name="papers_with_code"  />
 
 ## Papers with code
 Link | Description
@@ -26,7 +26,7 @@ Link | Description
 [PWC](https://github.com/zziz/pwc) | Papers with code. Sorted by stars. Updated weekly. 
 [Papers With Code](https://paperswithcode.com/search?q=mapping) | Papers With Code extracted from Github database.
 
-<a = "collections">
+<a name="collections"  />
 
 ## Collections
 Link | Description
@@ -39,7 +39,7 @@ Link | Description
 [Github topic:3D-Reconstruction](https://github.com/topics/3d-reconstruction) | List of Github repositories about 3D Reconstruction
 [Github topic:3D-Vision](https://github.com/search?q=3D+vision) | List of Github repositories about 3D Vision
 
-<a = "projects">
+<a name="projects"  />
 
 ## Projects
 Link | Description
