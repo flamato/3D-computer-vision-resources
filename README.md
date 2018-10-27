@@ -9,7 +9,7 @@ Link | Description
 ## Papers with code
 Link | Description
 ------------ | -------------
-[PWC:  Papers with code. Sorted by stars. Updated weekly.](https://github.com/zziz/pwc) | Papers with code. Sorted by stars. Updated weekly. 
+[PWC](https://github.com/zziz/pwc) | Papers with code. Sorted by stars. Updated weekly. 
 [Papers With Code](https://paperswithcode.com/search?q=mapping) | Papers With Code extracted from Github database.
 
 ## Collection
