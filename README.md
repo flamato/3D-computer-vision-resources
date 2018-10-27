@@ -9,16 +9,14 @@ Here is a list of 3D vision resources
 - [Papers With Code](https://paperswithcode.com/search?q=mapping)
 
 ## Awesome lists
-- [Awesome-3D: Awesome list of 3D resources.](https://github.com/taurenshaman/awesome-3d)
-- [Github topics:3d-reconstruction](https://github.com/topics/3d-reconstruction)
 - [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
-- [Awesome 3D reconstruction list : A curated list of papers & resources linked to 3D reconstruction from images.](https://github.com/openMVG/awesome_3DReconstruction_list)
-- [Awesome Visual Slam](https://github.com/tzutalin/awesome-visual-slam)
-- [Github topic:3d-reconstruction](https://github.com/topics/3d-reconstruction)
-- [Github topic:3d-vision](https://github.com/search?q=3D+vision)
-- [Github topic:3d-mapping](https://github.com/topics/3d?q=3D+mapping&unscoped_q=3D+mapping)
+- [Awesome 3D](https://github.com/taurenshaman/awesome-3d)
+- [Awesome 3D Reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
+- [Awesome Visual SLAM](https://github.com/tzutalin/awesome-visual-slam)
+- [Github topic:3D-Mapping](https://github.com/topics/3d?q=3D+mapping&unscoped_q=3D+mapping)
+- [Github topic:3D-Reconstruction](https://github.com/topics/3d-reconstruction)
+- [Github topic:3D-Vision](https://github.com/search?q=3D+vision)
 
 
 ## Projects
 - [Matterport3D: Learning from RGB-D Data in Indoor Environments](https://niessner.github.io/Matterport/#download)
-
