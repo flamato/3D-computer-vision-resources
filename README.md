@@ -2,7 +2,7 @@
 
 Here is a list of 3D vision resources
 
-<img align="left" width="50%" src="https://cdn.pixabay.com/photo/2016/10/28/00/42/machine-1776925_960_720.jpg" />
+<img align="center" width="50%" src="https://cdn.pixabay.com/photo/2016/10/28/00/42/machine-1776925_960_720.jpg" />
 
 ## Get Involved
 Fell free to add content through pull requests or open issues to contribute !
