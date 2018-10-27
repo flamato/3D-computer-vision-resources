@@ -5,6 +5,7 @@ Here is a list of 3D vision resources
 Link | Description
 ------------ | -------------
 [CS231A](http://web.stanford.edu/class/cs231a/syllabus.html) | Computer Vision, From 3D Reconstruction to Recognition
+[Introduction to Computer Vision](https://eu.udacity.com/course/introduction-to-computer-vision--ud810) | Course of great quality that covers large. 
 
 ## Papers with code
 Link | Description
