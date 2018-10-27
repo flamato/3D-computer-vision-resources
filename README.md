@@ -1,7 +1,10 @@
-# 3D Vision Resources
-Here is a list of 3D vision resources
+<center># 3D Vision Resources 
+  Here is a list of 3D vision resources
+<center />
 
-<img width="50%" src="https://cdn.pixabay.com/photo/2016/10/28/00/42/machine-1776925_960_720.jpg" />
+<center>
+  <img width="50%" src="https://cdn.pixabay.com/photo/2016/10/28/00/42/machine-1776925_960_720.jpg" />
+<center />
 
 ## Get Involved
 Fell free to add content through pull requests or open issues to contribute !
