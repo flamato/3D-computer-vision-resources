@@ -2,21 +2,29 @@
 Here is a list of 3D vision resources
 
 ## Courses
-- [CS231A: Computer Vision, From 3D Reconstruction to Recognition](http://web.stanford.edu/class/cs231a/syllabus.html)
+Link | Description
+------------ | -------------
+[CS231A](http://web.stanford.edu/class/cs231a/syllabus.html) | Computer Vision, From 3D Reconstruction to Recognition
 
 ## Papers with code
-- [PWC:  Papers with code. Sorted by stars. Updated weekly.](https://github.com/zziz/pwc)
-- [Papers With Code](https://paperswithcode.com/search?q=mapping)
+Link | Description
+------------ | -------------
+[PWC:  Papers with code. Sorted by stars. Updated weekly.](https://github.com/zziz/pwc) | Papers with code. Sorted by stars. Updated weekly. 
+[Papers With Code](https://paperswithcode.com/search?q=mapping) | Papers With Code extracted from Github database.
 
-## Awesome lists
-- [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
-- [Awesome 3D](https://github.com/taurenshaman/awesome-3d)
-- [Awesome 3D Reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
-- [Awesome Visual SLAM](https://github.com/tzutalin/awesome-visual-slam)
-- [Github topic:3D-Mapping](https://github.com/topics/3d?q=3D+mapping&unscoped_q=3D+mapping)
-- [Github topic:3D-Reconstruction](https://github.com/topics/3d-reconstruction)
-- [Github topic:3D-Vision](https://github.com/search?q=3D+vision)
+## Collection
+Link | Description
+------------ | -------------
+[3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) | A resource repository for 3D machine learning 
+[Awesome 3D](https://github.com/taurenshaman/awesome-3d) | Awesome list of 3D resources.
+[Awesome 3D Reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) | A curated list of papers & ressources linked to 3D reconstruction from images. 
+[Awesome Visual SLAM](https://github.com/tzutalin/awesome-visual-slam) | The list of vision-based SLAM / Visual Odometry open source, blogs, and papers. 
+[Github topic:3D-Mapping](https://github.com/topics/3d?q=3D+mapping&unscoped_q=3D+mapping) | List of Github repositories about 3D Mapping 
+[Github topic:3D-Reconstruction](https://github.com/topics/3d-reconstruction) | List of Github repositories about 3D Reconstruction
+[Github topic:3D-Vision](https://github.com/search?q=3D+vision) | List of Github repositories about 3D Vision
 
 
 ## Projects
-- [Matterport3D: Learning from RGB-D Data in Indoor Environments](https://niessner.github.io/Matterport/#download)
+Link | Description
+------------ | -------------
+[Matterport3D segmentation](https://niessner.github.io/Matterport/#download) | Learning from RGB-D Data in Indoor Environments
