@@ -62,8 +62,7 @@ Link | Description
 [ShapeNet](https://www.shapenet.org/) | Richly-annotated, large-scale dataset of 3D shapes.
 [KITTI 3D object detection](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) | Self-driving car dataset.
 [SUN RGB-D](http://rgbd.cs.princeton.edu/) | Scene Understanding Benchmark Suite
-[PASCAL 3D+](http://cvgl.stanford.edu/projects/pascal3d.html) | 3D models for objects in real-life
-images
+[PASCAL 3D+](http://cvgl.stanford.edu/projects/pascal3d.html) | 3D models for objects in real-life images
 [IKEA] | Images of IKEA furniture, along with accurate 3D shape and pose annotations
 
 
